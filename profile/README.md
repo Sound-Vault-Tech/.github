@@ -1,7 +1,7 @@
-# Introduction
+## Introduction
 This organization contains related projects from `Vault Tech`.
 
-# Contribution guidelines
+## Contribution guidelines
 Contain all conventions implemented in all projects.
 
 ### Git Commit Message Convention
@@ -40,6 +40,24 @@ Prefix all commits with the following keyword:
 - `squash`: Squash commit
 - `fixup`: Fixup commit
 
-# Useful resources
+## License
 
-# Fun facts
+This project is licensed under the Vault License - see <a href="https://github.com/Vault-Tech-Workspace" target="_blank">Vault</a>.
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## Contributors
+
+- Ainul Yaqin
+- Farrel Abyansyah
+- Achieva Futura Gemilang
+- Agustinus Banjarnahor
+- Sagita Kusumawardhani
+
+## Useful resources
+
+## Fun facts
