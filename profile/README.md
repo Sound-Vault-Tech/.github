@@ -1,5 +1,5 @@
 ## Introduction
-This organization contains related projects from `Vault Tech`.
+This organization contains related projects from `Sound Vault`.
 
 ## Contribution guidelines
 Contain all conventions implemented in all projects.
@@ -42,7 +42,7 @@ Prefix all commits with the following keyword:
 
 ## License
 
-This project is licensed under the Vault License - see <a href="https://github.com/Vault-Tech-Workspace" target="_blank">Vault</a>.
+This project is licensed under the Vault License - see <a href="https://github.com/Vault-Tech-Workspace" target="_blank">Sound Vault</a>.
 
 ## Acknowledgments
 
