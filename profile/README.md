@@ -42,7 +42,7 @@ Prefix all commits with the following keyword:
 
 ## License
 
-This project is licensed under the Vault License - see <a href="https://github.com/Vault-Tech-Workspace" target="_blank">Sound Vault</a>.
+This project is licensed under the Vault License - see <a href="https://github.com/Sound-Vault-Tech" target="_blank">Sound Vault</a>.
 
 ## Acknowledgments
 
